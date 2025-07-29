@@ -15,7 +15,10 @@ DESCRIOTION the Push Button Counter project is a beginner-friendly Arduino-based
 
 CIRCUIT
 
+<img width="865" height="408" alt="Image" src="https://github.com/user-attachments/assets/e76d6637-892b-4ca9-94e3-823668212f31" />
 
 
 OUTPUT
+
+<img width="746" height="412" alt="Image" src="https://github.com/user-attachments/assets/085b8987-acba-40f9-a22b-eb1cceab5253" />
 
